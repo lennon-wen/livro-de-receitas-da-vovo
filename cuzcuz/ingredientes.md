@@ -1,0 +1,5 @@
+- farinha
+- açúcar
+- óleo
+- fermento
+- água
